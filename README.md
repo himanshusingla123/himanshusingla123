@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif)]
 <h1 align="center" > Hi I'm Himanshu Singla </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="Coding" width="400" src="https://wallpapercave.com/wp/wp6965430.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 40%;">
+<img alt="Coding" width="400" src="https://wallpapercave.com/wp/wp6965430.jpg" style="display: block; margin-left: 100px; margin-right: auto; width: 40%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusingla123&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusingla123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshusingla123" alt="himanshusingla123" /></a> </p>
