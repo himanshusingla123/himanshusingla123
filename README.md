@@ -1,13 +1,20 @@
+[![MasterHead](https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif)]
+<h1 align="center" > Hi I'm Himanshu Singla </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp6965430.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusingla123&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusingla123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshusingla123" alt="himanshusingla123" /></a> </p>
 
 - 📫 How to reach me **singlahimanshu691@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/@him250870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@him250870" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cu_10379" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_10379" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/him250870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="him250870" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himans_singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himans_singla" height="30" width="40" /></a>
